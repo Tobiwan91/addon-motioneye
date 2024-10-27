@@ -42,6 +42,8 @@ RUN \
         python3=3.12.6-r0 \
         rsync=3.3.0-r0 \
         v4l-utils=1.24.1-r1 \
+        libcamera-v4l2=0.3.2-r0 \
+        libcamera-tools=0.3.0-r0 \
     \
     && curl -J -L -o /tmp/motion.tar.gz \
         "https://github.com/Motion-Project/motion/archive/release-${MOTION_VERSION}.tar.gz" \

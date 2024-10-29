@@ -1,9 +1,9 @@
 ---
-name: motionEye
+name: motionEye-libcamera
 version: dev
-slug: motioneye
+slug: motioneye-libcamera
 description: Simple, elegant and feature-rich CCTV/NVR for your cameras
-url: https://github.com/hassio-addons/addon-motioneye
+url: https://github.com/Tobiwan91/addon-motioneye/
 codenotary: codenotary@frenck.dev
 ingress: true
 ingress_port: 0

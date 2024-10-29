@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: MotionEye-libcamera
+url: 'https://github.com/Tobiwan91/addon-motioneye/'
+maintainer: Awesome Maintainer <awesome@example.com>
